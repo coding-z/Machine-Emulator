@@ -8,7 +8,7 @@
 #define MEMORY "memory.dat"
 #define WORD_TYPE short
 #define WORD_BASE 16
-#define NUM_MEM_WORDS 1000
+#define NUM_MEM_WORDS 100
 #define BUFFER_SIZE 15
 
 // ERRORS
